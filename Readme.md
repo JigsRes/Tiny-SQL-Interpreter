@@ -12,4 +12,4 @@
     - The file should have the sql queries separeted by newline.
     - Click Run to execute the queries in the file.
 - The output of the select queries  will be written to the Excel file. The output file will be generated in the same folder as the jar file.
-- The sql file that can be uploaded is provided in the submission.`
+- The sql file that can be uploaded is provided in the submission.
